@@ -1,0 +1,5 @@
+Rest syntax looks exactly like spread syntax. In a way, rest syntax is the opposite of spread syntax. 
+Spread syntax "expands" an array into its elements, while rest syntax collects multiple elements and
+ "condenses" them into a single element.
+
+ Rest operator is used to merge a list of function arguments into an array.

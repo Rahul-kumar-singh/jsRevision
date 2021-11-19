@@ -1,0 +1,10 @@
+Spread syntax (...) allows an iterable such as an array expression or string to be expanded in places where 
+zero or more arguments (for function calls) or elements (for array literals) are expected, or an object 
+expression to be expanded in places where zero or more key-value pairs (for object literals) are expected.
+
+syntax:
+         var variablename1 = [...value]; 
+ Spread operator is used for copy the array or object and merge the array and object.
+ we can aslo expand the array or object through spread operator.        
+
+ Spread operator is used to split array elements or object properties.

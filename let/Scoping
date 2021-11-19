@@ -1,0 +1,2 @@
+Variables declared by let have their scope in the block for which they are declared,
+ as well as in any contained sub-blocks.

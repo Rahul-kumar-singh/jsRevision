@@ -1,0 +1,1 @@
+Redeclaring the same variable within the same function or block scope raises a SyntaxError.

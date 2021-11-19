@@ -1,0 +1,9 @@
+The let statement declares a block-scoped local variable, optionally initializing it to a value.
+let allows you to declare variables that are limited to the scope of a block statement,
+ or expression on which it is used, unlike the var keyword, which declares a variable globally, 
+or locally to an entire function regardless of block scope.
+Just like const the let does not create properties of the window object when declared globally 
+(in the top-most scope).
+
+Many issues with let variables can be avoided by declaring them at the top of the scope in which they are used
+ (doing so may impact readibility).
